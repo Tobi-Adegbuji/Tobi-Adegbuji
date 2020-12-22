@@ -25,4 +25,11 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Tobi's's GitHub Stats" src="https://github-readme-stats.Tobi-Adegbuji.vercel.app/api?username=Tobi-Adegbuji&show_icons=true&hide_border=true" />
+
+</details>
+
 ---
