@@ -1,5 +1,4 @@
-### Hi there 👋
-- 🌱 I’m currently learning AWS Concepts.
+### Hello Visitor 👋
 - 💬 Ask me about programming or music!
 - 📫 How to reach me: adegbuji_tobi@yahoo.com
 - ⚡ Fun fact: I equally love front end and back end development :)
